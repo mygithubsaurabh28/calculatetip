@@ -1,0 +1,26 @@
+.container{
+    width:80%;
+    margin: auto;
+}
+
+.header{
+    background-color:blue;
+    border: 1px solid red;
+    };
+
+
+.labe{
+    background-color: green;
+};
+
+.list{
+    border: 1px solid palevioletred;
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+};
+
+.btn123{
+    background-color: green;
+    color: blue;
+}
